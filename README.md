@@ -1,22 +1,57 @@
-<h1>Hi there 👋</h1>  
-<h2>I am Day Trevisan</h2>  
+<h2>Hi there! 😀 </h2>  
+<h3>I am Day Trevisan</h3>  
 
+<div style="display: inline_block">
+   <h3>About Me</h3>
+   🎓 Graduated in Bioprocess Engineering<br>
+   💻 But since always passionate about technology<br>
+   📚 Fullstack in progress
+  </div>
 
-
-<h3>About Me</h3>
-🎓 Graduated in Bioprocess Engineering<br>
-💻 But since always passionate about technology<br>
-💼 Growning in progress<br>
-
+<div style="display: inline_block"><br>
 <h3>Tech Knowdledge</h3>
-<b>Languages</b><br>
-Java JavaScript
+<h4>Languages</h4>
+  <img align="center" alt="Day-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Day-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Day-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Day-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
 
-<h3>Libraries and Frameworks</h3>
+<div style="display: inline_block">
+<h4>Libraries and Frameworks</h4>
+  <img align="center" alt="Day-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img align="center" alt="Day-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+</div>
 
+<div style="display: inline_block">
+<h4>Enviroment, IDEs and Tools</h4>
+<div style="display: inline_block">
+<img align="center" alt="Day-IntelliJ" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />         
+</div>
 
-<h3>Infrastructure and DevOps</h3>
-Git GitHub Docker MySQL AWS
+<div style="display: inline_block">
+<h4>Infrastructure and DevOps</h4> 
+  <img align="center" alt="Day-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Day-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" >
+  <img align="center" alt="Day-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Day-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Day-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Day-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Day-GCP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
+  <img align="center" alt="Day-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="Day-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="Day-Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
+</div>
 
-<h3>Enviroment, IDEs and Tools</h3>
+##
+
+<div>
+<h4>Mail & SocialMedia</h4>
+  <a href = "mailto:dayanetma@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/dayane-trevisan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+<div>   
+  ![Snake animation](https://github.com/daytrevdev/daytrevdev/blob/output/github-contribution-grid-snake.svg)
+</div>
  
