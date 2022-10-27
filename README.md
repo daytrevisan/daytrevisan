@@ -1,4 +1,4 @@
-<h2>Hi there! 😀 </h2>  
+<h2>Hi there! 🙂 </h2>  
 <h3>I am Day Trevisan</h3>  
 
 <div style="display: inline_block">
