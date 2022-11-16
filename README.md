@@ -20,7 +20,6 @@
 <div style="display: inline_block">
 <h4>Libraries and Frameworks</h4>
   <img align="center" alt="Day-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="Day-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
 </div>
 
 <div style="display: inline_block">
