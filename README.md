@@ -26,7 +26,8 @@
 <div style="display: inline_block">
 <h4>Enviroment, IDEs and Tools</h4>
 <div style="display: inline_block">
-<img align="center" alt="Day-IntelliJ" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />         
+<img align="center" alt="Day-IntelliJ" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+<img align="center" alt="Day-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> 
 </div>
 
 <div style="display: inline_block">
