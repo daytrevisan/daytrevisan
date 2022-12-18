@@ -3,7 +3,7 @@
 
 <div style="display: inline_block">
    <h3>About Me</h3>
-   🎓 Graduated in Bioprocess Engineering<br>
+   🎓 Graduated in Engineering<br>
    💻 But since always passionate about technology<br>
    📚 Fullstack in progress
   </div>
