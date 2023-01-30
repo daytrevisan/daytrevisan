@@ -53,6 +53,6 @@
 </div>
 
 <div>   
-![Snake animation] (https://github.com/daytrevdev/daytrevdev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/daytrevdev/daytrevdev/blob/output/github-contribution-grid-snake.svg)
 </div>
  
