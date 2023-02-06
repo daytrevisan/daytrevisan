@@ -1,5 +1,5 @@
 <h2>Hi there! 🙂 </h2>  
-<h3>I am Day Trevisan</h3>  
+<h3>I am Dayane Trevisan</h3>  
 
 <div style="display: inline_block">
    <h3>About Me</h3>
