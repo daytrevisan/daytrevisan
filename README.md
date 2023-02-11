@@ -8,6 +8,12 @@
    📚 Fullstack in progress
   </div>
 
+<div align="center">
+  <a href="https://github.com/daytrevisan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daytrevisan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daytrevisan&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 <div style="display: inline_block"><br>
 <h3>Tech Knowdledge</h3>
 <h4>Languages</h4>
@@ -53,6 +59,6 @@
 </div>
 
 <div align="center">   
-![Snake animation](https://github.com/daytrevisan/daytrevisan/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/daytrevisan/daytrevisan/blob/output/github-contribution-grid-snake.svg)
 </div>
  
