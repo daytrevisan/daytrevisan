@@ -6,7 +6,7 @@
    🎓 Graduated in Engineering<br>
    💻 But since always passionate about technology<br>
    📚 Fullstack in progress
-  </div>
+ </div><br><br>
 
 <div align="center">
   <a href="https://github.com/daytrevisan">
