@@ -6,7 +6,7 @@
    🎓 Graduated in Engineering<br>
    💻 But since always passionate about technology<br>
    📚 Fullstack in progress
- </div><br><br>
+ </div><br>
 
 <div align="center">
   <a href="https://github.com/daytrevisan">
@@ -14,7 +14,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daytrevisan&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
 <h3>Tech Knowdledge</h3>
 <h4>Languages</h4>
   <img align="center" alt="Day-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
