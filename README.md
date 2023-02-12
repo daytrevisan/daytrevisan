@@ -4,7 +4,7 @@
 <div style="display: inline_block">
    <h3>About Me</h3>
    🎓 Graduated in Engineering<br>
-   💻 But since always passionate about technology<br>
+   💻 Since always passionate about technology<br>
    📚 Fullstack in progress
  </div><br>
 
