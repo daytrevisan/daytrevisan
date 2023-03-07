@@ -42,12 +42,12 @@
   <img align="center" alt="Day-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Day-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="center" alt="Day-Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
-</div>
+</div><br><br>
    
 <div align="center" style="justify-content: space-between">
   <a href="https://github.com/daytrevisan">
   <img height="150em" width="400em" src="https://github-readme-stats.vercel.app/api?username=daytrevisan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daytrevisan&layout=compact&langs_count=7&theme=dracula"/ style="margin-top: 10px">
+  <img height="150em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daytrevisan&layout=compact&langs_count=7&theme=dracula"/>
 </div>
    
 ##
