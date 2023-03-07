@@ -47,7 +47,7 @@
 <div align="center" style="justify-content: space-between">
   <a href="https://github.com/daytrevisan">
   <img height="150em" width="400em" src="https://github-readme-stats.vercel.app/api?username=daytrevisan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daytrevisan&layout=compact&langs_count=7&theme=dracula"/ style="padding-bottom: 10px">
+  <img height="150em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daytrevisan&layout=compact&langs_count=7&theme=dracula"/ style="margin-bottom: 10px">
 </div>
    
 ##
